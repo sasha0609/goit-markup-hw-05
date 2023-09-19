@@ -785,9 +785,6 @@ img {
 }
 
 .review-form-label-checkbox {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: #8e8f99;
   font-size: 12px;
   font-weight: 400;
